@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mdislammazharul/Heart_Failure_Prediction/static/css/main.e6c13ad2.css",
+    "main.js": "/mdislammazharul/Heart_Failure_Prediction/static/js/main.7d914356.js",
+    "static/js/453.44e85e3f.chunk.js": "/mdislammazharul/Heart_Failure_Prediction/static/js/453.44e85e3f.chunk.js",
+    "index.html": "/mdislammazharul/Heart_Failure_Prediction/index.html",
+    "main.e6c13ad2.css.map": "/mdislammazharul/Heart_Failure_Prediction/static/css/main.e6c13ad2.css.map",
+    "main.7d914356.js.map": "/mdislammazharul/Heart_Failure_Prediction/static/js/main.7d914356.js.map",
+    "453.44e85e3f.chunk.js.map": "/mdislammazharul/Heart_Failure_Prediction/static/js/453.44e85e3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d914356.js"
+  ]
+}
