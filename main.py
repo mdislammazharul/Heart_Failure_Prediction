@@ -8,7 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 # Add CORS so GitHub Pages can access API
 # ----------------------------
 origins = [
-    "http://localhost:3000",   # React dev
+    "http://localhost:5173",
     "https://mdislammazharul.github.io",  # user site root
     "https://mdislammazharul.github.io/Heart_Failure_Prediction",  # actual app
 ]
