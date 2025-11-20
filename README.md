@@ -5,9 +5,22 @@ It covers everything from **EDA** and **feature analysis** to **model training**
 
 ---
 
+## 🚀 Live demo
+
+Deployed on GitHub Pages: https://mdislammazharul.github.io/Heart_Failure_Prediction/
+
+**What to explore on the site**
+
+- **Landing page:** first 10 rows of dataset, model summary, EDA visuals.
+- **Predict page:** real-time inference using deployed FastAPI backend.
+- **Training report:** full notebook converted to HTML (link).
+
+---
+
 ## 📚 Table of Contents
 
 - [Heart Failure Prediction — End-to-End Machine Learning Project](#heart-failure-prediction--end-to-end-machine-learning-project)
+  - [🚀 Live demo](#-live-demo)
   - [📚 Table of Contents](#-table-of-contents)
   - [🔍 Project Overview](#-project-overview)
   - [🖼️ Exploratory Data Analysis](#️-exploratory-data-analysis)
