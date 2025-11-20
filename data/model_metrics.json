@@ -1,0 +1,24 @@
+{
+  "models": {
+    "random_forest": {
+      "accuracy": 0.867,
+      "roc_auc": 0.909,
+      "f1": 0.778,
+      "best_params": {
+        "max_depth": 5,
+        "min_samples_split": 10,
+        "n_estimators": 100
+      }
+    },
+    "logistic_regression": {
+      "accuracy": 0.85,
+      "roc_auc": 0.908,
+      "f1": 0.743,
+      "best_params": {
+        "C": 0.1,
+        "solver": "liblinear"
+      }
+    }
+  },
+  "selected_model": "random_forest"
+}
